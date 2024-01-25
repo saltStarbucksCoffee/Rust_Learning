@@ -1,2 +1,4 @@
 projects/demo_01/target/*
+projects/demo_02/target/*
 projects/demo_01/Cargo.lock
+projects/demo_02/Cargo.lock
