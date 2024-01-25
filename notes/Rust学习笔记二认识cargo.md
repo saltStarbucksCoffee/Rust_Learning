@@ -3,16 +3,16 @@
 ## 目录
 <!-- TOC -->
 
-- [Rust学习笔记二:认识cargo](#rust%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%E4%BA%8C%E8%AE%A4%E8%AF%86cargo)
-  - [目录](#%E7%9B%AE%E5%BD%95)
-  - [前言](#%E5%89%8D%E8%A8%80)
-  - [介绍Cargo](#%E4%BB%8B%E7%BB%8Dcargo)
-  - [Cargo项目](#cargo%E9%A1%B9%E7%9B%AE)
-    - [Cargo.toml文件](#cargotoml%E6%96%87%E4%BB%B6)
-    - [main.rs文件](#mainrs%E6%96%87%E4%BB%B6)
-  - [构建并运行 Cargo 项目](#%E6%9E%84%E5%BB%BA%E5%B9%B6%E8%BF%90%E8%A1%8C-cargo-%E9%A1%B9%E7%9B%AE)
-  - [发布（release）构建](#%E5%8F%91%E5%B8%83release%E6%9E%84%E5%BB%BA)
-  - [总结](#%E6%80%BB%E7%BB%93)
+- [Rust学习笔记二:认识cargo](#rust学习笔记二认识cargo)
+  - [目录](#目录)
+  - [前言](#前言)
+  - [介绍Cargo](#介绍cargo)
+  - [Cargo项目](#cargo项目)
+    - [Cargo.toml文件](#cargotoml文件)
+    - [main.rs文件](#mainrs文件)
+  - [构建并运行 Cargo 项目](#构建并运行-cargo-项目)
+  - [发布（release）构建](#发布release构建)
+  - [总结](#总结)
 
 <!-- /TOC -->
 ## 前言
